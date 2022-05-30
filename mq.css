@@ -179,7 +179,7 @@ img.header__menu-item {
    
     }
     .header__menu.active {
-        background: linear-gradient(180deg, rgba(238,240,246,1) 0%, rgba(238,240,246,1) 25%, rgba(227,239,246,0) 25.1%, rgba(0,212,255,0) 100%);
+        background: linear-gradient(180deg, rgba(238,240,246,1) 0%, rgba(238,240,246,1) 28%, rgba(227,239,246,0) 28.1%, rgba(0,212,255,0) 100%);
     }
 
     .header__menu-items.active {
